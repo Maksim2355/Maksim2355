@@ -1,7 +1,7 @@
-# Всем привет 👋 Я Максим Провоторов. Начинающий мобильный разработчик
+## Всем привет 👋 Я Максим Провоторов. Начинающий мобильный разработчик
 
 Основной интерес:
---
+
 ![Android](https://img.shields.io/badge/Android-FAFAFA?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-80DEEA?style=for-the-badge&logo=kotlin)
 ![java](https://img.shields.io/badge/java-2196F3?style=for-the-badge&logo=java)
@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-FAFAFA?style=for-the-badge&logo=Git)
 
 Я так же немного интересуюсь:
---
+
 ![Vue](https://img.shields.io/badge/Vue-388E3C?style=for-the-badge&logo=Vue)
 
 ![Flutter](https://img.shields.io/badge/Flutter-1565C0?style=for-the-badge&logo=flutter)
@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-84FFFF?style=for-the-badge&logo=python)
 
 Мои контакты:
---
+
 [![Vk](https://img.shields.io/badge/Vk-090900?style=for-the-badge&logo=Vk)](https://vk.com/maksim23okt)
 [![Telegram](https://img.shields.io/badge/Telegram-090900?style=for-the-badge&logo=Telegram)](https://t.me/Podvorotof)
 
