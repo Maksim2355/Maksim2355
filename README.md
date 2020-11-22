@@ -6,18 +6,18 @@ __Основной интерес:__
 ![Kotlin](https://img.shields.io/badge/Kotlin-80DEEA?style=flat-square&logo=kotlin)
 ![java](https://img.shields.io/badge/java-2196F3?style=flat-square&logo=java)
 
+__Я так же немного интересуюсь:__
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-090900?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-FF7043?style=flat-square&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-512DA8?style=flat-square&logo=CSS)
-
-![Git](https://img.shields.io/badge/Git-E0E0E0?style=flat-square&logo=Git)
-
-__Я так же немного интересуюсь:__
-
 ![Vue](https://img.shields.io/badge/Vue-388E3C?style=flat-square&logo=Vue)
 
 ![Flutter](https://img.shields.io/badge/Flutter-1565C0?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-283593?style=flat-square&logo=dart)
+
+![Git](https://img.shields.io/badge/Git-E0E0E0?style=flat-square&logo=Git)
+
 
 ![Spring](https://img.shields.io/badge/Spring-E0E0E0?style=flat-square&logo=spring)
 
