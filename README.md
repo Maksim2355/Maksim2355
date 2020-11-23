@@ -16,9 +16,6 @@ __Я так же немного интересуюсь:__
 ![Flutter](https://img.shields.io/badge/Flutter-1565C0?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-283593?style=flat-square&logo=dart)
 
-![Git](https://img.shields.io/badge/Git-E0E0E0?style=flat-square&logo=Git)
-
-
 ![Spring](https://img.shields.io/badge/Spring-E0E0E0?style=flat-square&logo=spring)
 
 ![Python](https://img.shields.io/badge/Python-84FFFF?style=flat-square&logo=python)
