@@ -8,6 +8,8 @@ __Основной интерес:__
 
 __Я так же немного интересуюсь:__
 
+![Python](https://img.shields.io/badge/Python-84FFFF?style=flat-square&logo=python)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-090900?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-FF7043?style=flat-square&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-512DA8?style=flat-square&logo=CSS)
@@ -15,8 +17,6 @@ __Я так же немного интересуюсь:__
 
 ![Flutter](https://img.shields.io/badge/Flutter-1565C0?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-283593?style=flat-square&logo=dart)
-
-![Python](https://img.shields.io/badge/Python-84FFFF?style=flat-square&logo=python)
 
 __Мои контакты:__
 
