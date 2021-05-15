@@ -2,12 +2,13 @@
 
 __Основной интерес:__
 
-![Android](https://img.shields.io/badge/Android-E0E0E0?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-80DEEA?style=flat-square&logo=kotlin)
-![java](https://img.shields.io/badge/java-2196F3?style=flat-square&logo=java)
+![Android](https://img.shields.io/badge/Android-212121?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-F5F5F5?style=flat-square&logo=kotlin)
+![java](https://img.shields.io/badge/java-FF6F00?style=flat-square&logo=java)
 
 __Я так же немного интересуюсь:__
 
+![Golang](https://img.shields.io/badge/Golang-b71c1c?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/Python-84FFFF?style=flat-square&logo=python)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-090900?style=flat-square&logo=javascript)
