@@ -12,6 +12,7 @@ __C этими жопосранчиками я немного работал:__
 
 ![Golang](https://img.shields.io/badge/Golang-b71c1c?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/Python-84FFFF?style=flat-square&logo=python)
+![English](https://cleandye.com/wp-content/uploads/2020/01/English-icon-300x300.png)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-090900?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-FF7043?style=flat-square&logo=HTML)
