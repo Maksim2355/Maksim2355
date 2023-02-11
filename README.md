@@ -2,11 +2,13 @@
 
 __Основной интерес:__
 
+Покраска👷‍♂️кнопок♥️на АНДРОИДЕ 😧
+
 ![Android](https://img.shields.io/badge/Android-212121?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-F5F5F5?style=flat-square&logo=kotlin)
 ![java](https://img.shields.io/badge/java-FF6F00?style=flat-square&logo=java)
 
-__Я так же немного интересуюсь:__
+__C этими жопосранчиками я немного работал:__
 
 ![Golang](https://img.shields.io/badge/Golang-b71c1c?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/Python-84FFFF?style=flat-square&logo=python)
